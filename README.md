@@ -1,2 +1,2 @@
 # salaries_prediction
-Using Simple Linear Regression to predict the salaries of employees based on historical data.
+Using simple linear regression, I have built this small model to predict the salaries of new employees according to the years of experience they have based on historical data of the salaries of the current employees.
